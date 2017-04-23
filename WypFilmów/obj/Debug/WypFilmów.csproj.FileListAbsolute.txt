@@ -1,0 +1,6 @@
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\bin\Debug\WypFilmów.exe.config
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\bin\Debug\WypFilmów.exe
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\bin\Debug\WypFilmów.pdb
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\obj\Debug\WypFilmów.csprojResolveAssemblyReference.cache
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\obj\Debug\WypFilmów.exe
+c:\users\szcze\onedrive\dokumenty\visual studio 2015\Projects\WypFilmów\WypFilmów\obj\Debug\WypFilmów.pdb
